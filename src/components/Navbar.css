@@ -74,6 +74,12 @@
   .menu-icon {
     display: none;
   }
+
+  @media screen and (max-width: 1040px){
+    .nav-menu{
+      margin-right: -2rem;
+    }
+  }
   
   @media screen and (max-width: 960px) {
     .NavbarItems {

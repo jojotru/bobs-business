@@ -2,13 +2,14 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './TeaSection.css';
-import Video from '../videos/video-2.mp4';
+
 
 function TeaSection() {
   return (
     <div className = 'tea-container'>
-      <video src={Video} autoPlay loop muted/>
-      <h1>Welcome to Bob's Boba!</h1>
+      <video src={require('.//videos/video-2.mp4')} autoPlay loop></video>
+
+      <h1>Welcome to BOB'S BOBA!</h1>
       <p>Have you tried our newest drink flavors?</p>
       <div className='tea-btns'>
         <Button className = 'btns' buttonStyle = 'btn--outline' buttonSize = 'btn--large'>GET STARTED
