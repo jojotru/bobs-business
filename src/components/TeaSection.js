@@ -1,6 +1,7 @@
 import React from 'react';
 import '../App.css';
 import { Button } from './Button';
+import { Btton } from './Button';
 import './TeaSection.css';
 
 
@@ -14,8 +15,8 @@ function TeaSection() {
       <div className='tea-btns'>
         <Button className = 'btns' buttonStyle = 'btn--outline' buttonSize = 'btn--large'>GET STARTED
         </Button>
-        <Button className = 'btns' buttonStyle = 'btn--primary' buttonSize = 'btn--large'>ABOUT US
-        </Button>
+        <Btton className = 'btns' buttonStyle = 'btn--primary' buttonSize = 'btn--large'>ABOUT US
+        </Btton>
       </div>
     </div>
   )
