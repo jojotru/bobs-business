@@ -8,7 +8,7 @@ import './TeaSection.css';
 function TeaSection() {
   return (
     <div className = 'tea-container'>
-      <video src={require('.//videos/video-2.mp4')} autoPlay loop></video>
+      <video src={require('./videos/video-2.mp4')} autoPlay loop muted></video>
 
       <h1>Welcome to BOB'S BOBA!</h1>
       <p>Have you tried our newest drink flavors?</p>
