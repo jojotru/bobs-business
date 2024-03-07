@@ -1,0 +1,26 @@
+.drinks{
+    background-color: beige;
+}
+.menuItems{
+    padding: 50px 80px;
+    -webkit-columns: 2;
+     -moz-columns: 2;
+          columns: 2;
+}
+.drink{
+    display:inline-block;
+}
+h1{
+    text-align: left;
+    padding-top: 70px;
+    padding-left: 80px;
+    text-decoration: wavy;
+}
+h3{
+    font-size: 25px;
+}
+p{
+    padding: 30px 0;
+    text-wrap: wrap;
+    color: darkslategrey;
+}
