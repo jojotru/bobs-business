@@ -1,0 +1,44 @@
+.aboutBkg{
+    background-color: #de8185;
+}
+
+.aboutBox{
+    padding: 30px 10%;
+    -webkit-columns: 2;
+     -moz-columns: 2;
+          columns: 2;
+}
+
+.aboutInfo{
+    padding: 40px 70px 0px 0px;
+}
+
+.aboutInfo h1{
+    padding-top: 80px;
+    padding-bottom: 50px;
+    color: #3e3d3d;
+}
+
+.aboutInfo p{
+    color: #565656;
+}
+
+.aboutPhoto{
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+    
+}
+
+.aboutImg{
+    width: 330px;
+    margin: 10px;
+    margin-left: 0px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+}
+
+.imgH{
+    width: 350px;
+    margin-left: 60px;
+}
