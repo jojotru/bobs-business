@@ -4,8 +4,8 @@
 .menuItems{
     padding: 50px 20%;
     -webkit-columns: 2;
-     -moz-columns: 2;
-          columns: 2;
+    -moz-columns: 2;
+    columns: 2;
 }
 .drink{
     display:inline-block;
@@ -27,4 +27,11 @@ h3{
     text-wrap: wrap;
     color: rgb(100, 91, 91);
     width: 80%;
+}
+
+@media screen and (max-width: 768px){
+    .menuItems{
+        padding: 50px 10%;
+        columns: 1;
+    }
 }

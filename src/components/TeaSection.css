@@ -57,6 +57,7 @@ video{
 
     .tea-container > p {
         font-size: 30px;
+        text-align: center;
     }
 
     .btn-mobile{
