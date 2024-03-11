@@ -4,9 +4,7 @@
 
 .aboutBox{
     padding: 30px 10%;
-    -webkit-columns: 2;
-     -moz-columns: 2;
-          columns: 2;
+    columns: 2;
 }
 
 .aboutInfo{
@@ -24,10 +22,7 @@
 }
 
 .aboutPhoto{
-    -webkit-columns: 2;
-    -moz-columns: 2;
     columns: 2;
-    
 }
 
 .aboutImg{
@@ -41,4 +36,32 @@
 .imgH{
     width: 350px;
     margin-left: 60px;
+}
+@media screen and (max-width: 1300px){
+    .aboutBox{
+        padding: 30px 10%;
+        columns: 1;
+    }
+    .aboutInfo{
+        padding: 30px;
+        width: 100%;
+        text-align: center;
+    }
+    .aboutPhoto{
+        columns: 1;
+    }
+    .aboutImg{
+        width: 100%;
+    }
+    .imgH{
+    margin-left: 0px;
+    }
+}
+@media screen and (max-width: 1500px){
+    .aboutBox{
+        padding: 17px 14%;
+    }
+    .aboutPhoto{
+        margin-left: -70px;
+    }
 }
