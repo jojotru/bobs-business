@@ -1,6 +1,6 @@
 # Bob's Boba
 
-This is a demo website for a small business created with React. 
+This is a demo website for a small business created with React. </br>
 View website :
 
 
