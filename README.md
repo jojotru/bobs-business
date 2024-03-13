@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Bob's Boba
+
+This is a demo website for a small business created with React. 
+View website :
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
