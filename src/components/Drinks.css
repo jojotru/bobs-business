@@ -1,0 +1,37 @@
+.drinks{
+    background-color: rgb(227, 217, 203);
+}
+.menuItems{
+    padding: 50px 20%;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+}
+.drink{
+    display:inline-block;
+}
+.drinks h1{
+    text-align: left;
+    padding-top: 70px;
+    padding-left: 20%;
+    text-decoration: wavy;
+    font-size: 40px;
+    color: rgb(58, 29, 26);
+}
+h3{
+    font-size: 25px;
+    color: #2e5362;
+}
+.drink p{
+    padding: 30px 0;
+    text-wrap: wrap;
+    color: rgb(100, 91, 91);
+    width: 80%;
+}
+
+@media screen and (max-width: 768px){
+    .menuItems{
+        padding: 50px 10%;
+        columns: 1;
+    }
+}
