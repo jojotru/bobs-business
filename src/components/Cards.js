@@ -10,14 +10,14 @@ function Cards() {
             <div className="cards__wrapper">
                 <ul className="cards__items">
                     <CardItem 
-                    src="./images/thaitea.png"
+                    src="./bobs-business/images/thaitea.png"
                     text="Thai Tea"
                     label='Best Seller'
                     path='/menu'
                     />
 
                     <CardItem 
-                    src="/images/lychee.png"
+                    src="/bobs-business/images/lychee.png"
                     text="Lychee Boba Tea"
                     label='Fan Favorite'
                     path='/menu'
