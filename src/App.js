@@ -16,8 +16,8 @@ function App() {
     <BrowserRouterRouter basename = "/bobs-business">
       <Navbar />
       <Routes>
-        <Route path='/bobs-business/' exact element={ <Home/>}></Route>
-        <Route path='/bobs-business/menu' exact element={ <Menu/>}></Route>
+        <Route path='/' exact element={ <Home/>}></Route>
+        <Route path='/menu' exact element={ <Menu/>}></Route>
         <Route path='/about-us' exact element={ <AboutUs/>}></Route>
         <Route path='/sign-up' exact element={ <SignUp/>}></Route>
       </Routes>
