@@ -13,7 +13,7 @@ import SignUp from './components/pages/SignUp';
 function App() {
   return (
     <>
-    <BrowserRouterRouter basename = "/bobs-business">
+    <BrowserRouter basename = "/bobs-business">
       <Navbar />
       <Routes>
         <Route path='/' exact element={ <Home/>}></Route>
@@ -21,7 +21,7 @@ function App() {
         <Route path='/about-us' exact element={ <AboutUs/>}></Route>
         <Route path='/sign-up' exact element={ <SignUp/>}></Route>
       </Routes>
-    </BrowserRouterRouter>
+    </BrowserRouter>
     </>
   );
 }
