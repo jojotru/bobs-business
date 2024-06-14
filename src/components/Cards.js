@@ -10,8 +10,7 @@ function Cards() {
             <div className="cards__wrapper">
                 <ul className="cards__items">
                     <CardItem 
-                    src="./images/thaitea.png"
-                    text="Thai Tea"
+                    src={process.env.PUBLIC_URL + '/images/lychee.png'}
                     label='Best Seller'
                     path='/menu'
                     />
