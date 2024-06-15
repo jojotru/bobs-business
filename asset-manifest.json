@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bobs-business/static/css/main.3b4b07bf.css",
-    "main.js": "/bobs-business/static/js/main.02faa4ba.js",
+    "main.js": "/bobs-business/static/js/main.e9ef938d.js",
     "static/media/video-2.mp4": "/bobs-business/static/media/video-2.d5b3b96c5f2e5030e203.mp4",
     "static/media/about us 1.jpeg": "/bobs-business/static/media/about us 1.635d460a8eb409df6e30.jpeg",
     "static/media/about us.jpeg": "/bobs-business/static/media/about us.53d1f6b7b8a5f609214b.jpeg",
     "static/media/boba.jpeg": "/bobs-business/static/media/boba.4b5ac74289b2c3b7ce54.jpeg",
     "index.html": "/bobs-business/index.html",
     "main.3b4b07bf.css.map": "/bobs-business/static/css/main.3b4b07bf.css.map",
-    "main.02faa4ba.js.map": "/bobs-business/static/js/main.02faa4ba.js.map"
+    "main.e9ef938d.js.map": "/bobs-business/static/js/main.e9ef938d.js.map"
   },
   "entrypoints": [
     "static/css/main.3b4b07bf.css",
-    "static/js/main.02faa4ba.js"
+    "static/js/main.e9ef938d.js"
   ]
 }
