@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import { BrowserRouter as Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import './App.css';
 import Home from './components/pages/Home';
@@ -12,7 +12,7 @@ import SignUp from './components/pages/SignUp';
 function App() {
   return (
     <>
-    <BrowserRouter basename = "/bobs-business">
+    <Router basename = "/bobs-business">
       <Navbar />
       <Routes>
         <Route path='/' exact element={ <Home/>}></Route>
@@ -20,7 +20,7 @@ function App() {
         <Route path='/about-us' exact element={ <AboutUs/>}></Route>
         <Route path='/sign-up' exact element={ <SignUp/>}></Route>
       </Routes>
-    </BrowserRouter>
+    </Router>
     </>
   );
 }
