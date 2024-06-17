@@ -16,7 +16,7 @@ function Cards() {
                     />
 
                     <CardItem 
-                    src="images/lychee.png"
+                    src="../images/lychee.png"
                     text="Lychee Boba Tea"
                     label='Fan Favorite'
                     path='/menu'
