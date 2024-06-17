@@ -11,8 +11,8 @@ function Fam() {
                     </p>
                 </div>
                 <div className="aboutPhoto">
-                    <img src="../images/bob.jpeg" alt="Bob" className="aboutImg"/>
-                    <img src="././images/bob2.jpeg" alt="Bob" className="aboutImg imgH"/>
+                    <img src="/bobs-business/images/bob.jpeg" alt="Bob" className="aboutImg"/>
+                    <img src="bobs-business/images/bob2.jpeg" alt="Bob" className="aboutImg imgH"/>
                     <img src="./images/bob3.jpeg" alt="Bob" className="aboutImg imgH"/>
                 </div>
             </div>
