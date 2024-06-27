@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Bobs-Business/static/css/main.af77e564.css",
+    "main.js": "/Bobs-Business/static/js/main.e3f565f5.js",
+    "static/media/video-2.mp4": "/Bobs-Business/static/media/video-2.d5b3b96c5f2e5030e203.mp4",
+    "static/media/about us 1.jpeg": "/Bobs-Business/static/media/about us 1.635d460a8eb409df6e30.jpeg",
+    "static/media/about us.jpeg": "/Bobs-Business/static/media/about us.53d1f6b7b8a5f609214b.jpeg",
+    "static/media/boba.jpeg": "/Bobs-Business/static/media/boba.4b5ac74289b2c3b7ce54.jpeg",
+    "index.html": "/Bobs-Business/index.html",
+    "main.af77e564.css.map": "/Bobs-Business/static/css/main.af77e564.css.map",
+    "main.e3f565f5.js.map": "/Bobs-Business/static/js/main.e3f565f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af77e564.css",
+    "static/js/main.e3f565f5.js"
+  ]
+}
