@@ -3,13 +3,15 @@
 This is a demo website for a small business created with React. </br>
 View website [here](https://jojotru.github.io/bobs-business/).
 
+</br>
+
 <img width="1470" alt="Screenshot 2024-06-28 at 1 09 39 AM" src="https://github.com/jojotru/bobs-business/assets/109646119/4e33d0da-0f69-4567-b940-c726556ace13">
 <img width="1470" alt="Screenshot 2024-06-28 at 1 11 01 AM" src="https://github.com/jojotru/bobs-business/assets/109646119/02e9ccee-0a6c-4554-8234-77f6e4833bcf">
 <img width="1470" alt="Screenshot 2024-06-28 at 1 10 19 AM" src="https://github.com/jojotru/bobs-business/assets/109646119/415e126f-bb8e-4582-836e-8fb95de7fe96">
 
-
-
-
+</br>
+</br>
+</br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
