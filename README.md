@@ -1,7 +1,7 @@
 # Bob's Boba
 
 This is a demo website for a small business created with React. </br>
-View website [https://jojotru.github.io/bobs-business/](here).
+View website [here](https://jojotru.github.io/bobs-business/).
 
 
 
