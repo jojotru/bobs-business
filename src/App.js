@@ -11,7 +11,7 @@ import SignUp from './components/pages/SignUp';
 function App() {
   return (
     <>
-    <Router basename = '/bobs-business'>
+    <Router basename = '/bobs-business/'>
       <Navbar />
       <Routes>
         <Route path='/' exact element={ <Home/>}></Route>
