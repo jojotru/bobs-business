@@ -26,7 +26,7 @@ function Cards() {
                 </ul>
                 <ul className="cards__items">
                     <CardItem 
-                    src="images/tarrotea.png"
+                    src="images/tarotea.png"
                     text="Taro Tea"
                     label='Best Seller'
                     path='/menu'
